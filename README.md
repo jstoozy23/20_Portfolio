@@ -3,4 +3,4 @@
 ## Description
 Hello! 
 
-Link: https://jstoozy23.github.io/20_React-Portfolio/ 
+Link: https://jstoozy23.github.io/20_Portfolio/ 
